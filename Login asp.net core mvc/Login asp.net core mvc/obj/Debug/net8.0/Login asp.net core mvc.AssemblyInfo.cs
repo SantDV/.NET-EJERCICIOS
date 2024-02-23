@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Login asp.net core mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+265c3fd02d60bafc8a73ba8d3a8f2f23621fa1b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Login asp.net core mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Login asp.net core mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

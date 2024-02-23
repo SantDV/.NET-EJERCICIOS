@@ -6,25 +6,25 @@ using Login_asp.net_core_mvc.Servicios.Contrato;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder1 = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder1.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<DbpruebaContext>(options =>
+builder1.Services.AddDbContext<DbpruebaContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("conectionString"));
+    options.UseSqlServer(builder1.Configuration.GetConnectionString("conectionString"));
 });
 
-builder.Services.AddScoped<IUsuarioService, UsuarioServices>();
-builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+builder1.Services.AddScoped<IUsuarioService, UsuarioServices>();
+builder1.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
         options.LoginPath = "/Inicio/IniciarSesion";
         options.ExpireTimeSpan = TimeSpan.FromMinutes(20);
     });
 
-builder.Services.AddControllersWithViews(options =>
+builder1.Services.AddControllersWithViews(options =>
 {
     options.Filters.Add(
         new ResponseCacheAttribute
@@ -35,7 +35,7 @@ builder.Services.AddControllersWithViews(options =>
         );
 });
 
-var app = builder.Build();
+var app = builder1.Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

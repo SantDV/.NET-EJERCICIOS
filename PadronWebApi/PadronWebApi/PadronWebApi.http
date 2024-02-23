@@ -1,0 +1,6 @@
+@PadronWebApi_HostAddress = http://localhost:5128
+
+GET {{PadronWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

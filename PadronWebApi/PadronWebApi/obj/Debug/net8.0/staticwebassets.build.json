@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1i81qlzPexHUjt1XzcEEc68+gnxCcs3ZoSQt329AA38=",
+  "Source": "PadronWebApi",
+  "BasePath": "_content/PadronWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
