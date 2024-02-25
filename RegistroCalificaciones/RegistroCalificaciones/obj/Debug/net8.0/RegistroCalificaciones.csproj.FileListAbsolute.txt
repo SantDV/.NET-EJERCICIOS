@@ -1,0 +1,15 @@
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\bin\Debug\net8.0\RegistroCalificaciones.exe
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\bin\Debug\net8.0\RegistroCalificaciones.deps.json
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\bin\Debug\net8.0\RegistroCalificaciones.runtimeconfig.json
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\bin\Debug\net8.0\RegistroCalificaciones.dll
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\bin\Debug\net8.0\RegistroCalificaciones.pdb
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\RegistroCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\RegistroCalificaciones.AssemblyInfoInputs.cache
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\RegistroCalificaciones.AssemblyInfo.cs
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\RegistroCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\RegistroCalificaciones.sourcelink.json
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\RegistroCalificaciones.dll
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\refint\RegistroCalificaciones.dll
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\RegistroCalificaciones.pdb
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\RegistroCalificaciones.genruntimeconfig.cache
+C:\Users\SANTIAGO\source\repos\Ejercicios\RegistroCalificaciones\RegistroCalificaciones\obj\Debug\net8.0\ref\RegistroCalificaciones.dll
